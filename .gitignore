@@ -1,0 +1,5 @@
+.env
+.venv
+
+app.log
+app.pid
